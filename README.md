@@ -1,6 +1,3 @@
-<p align=center>
-
-  <img src="https://i.pinimg.com/originals/3c/a9/37/3ca9375ed010b702b8f024570751e6db.png"/>
 
   <br>
   <span>A Discord Bot / Selfbot, who can do a MC Lookup (UUID, Skin URL, And NameMc Profile) and Ip Lookup (City, ORG, Region, Country, Etc)</span>
