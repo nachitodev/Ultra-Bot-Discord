@@ -17,7 +17,7 @@ $ cd Discord-Bot-Mc-Lookup-and-IP-Lookup.
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 
-# Insert Your Token In The File (BOT or SelfBot)
+# Insert Your Token In The File "Main.py"
 $ bot.run("token-here")
 
 # Commands
