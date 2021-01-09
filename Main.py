@@ -49,3 +49,5 @@ async def iplookup(ctx, *, message:str=None):
     await ctx.send(embed=embed)
 
 bot.run("TOKEN-HERE")
+else
+bot.run("TOKEN-HERE", bot=False)
