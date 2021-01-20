@@ -11,7 +11,7 @@
 # clone the repo
 $ git clone https://github.com/Lzyen/Discord-Bot-Mc-Lookup-and-IP-Lookup/
 
-# change the working directory to Fortnite Codes Generator
+# change the working directory to Discord Bot Mc Lookup and IP Lookup
 $ cd Discord-Bot-Mc-Lookup-and-IP-Lookup.
 
 # install the requirements
