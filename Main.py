@@ -7,7 +7,7 @@ from phonenumbers import geocoder, carrier
 
 bot = commands.Bot(command_prefix='.')
 os.system("cls")
-os.system("title BOT")
+os.system("title Ultra Discord Bot")
 # MC Lookup
 
 
