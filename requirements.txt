@@ -2,3 +2,4 @@ discord.py
 requests
 ipapi
 mojang
+phonenumbers
