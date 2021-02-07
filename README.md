@@ -1,18 +1,17 @@
 
   <br>
-  <span>A Discord Bot / Selfbot, who can do a MC Lookup (UUID, Skin URL, And NameMc Profile) and Ip Lookup (City, ORG, Region, Country, Etc)</span>
+  <span>A Discord Bot / Selfbot, who can do a MC Lookup (UUID, Skin URL, And NameMc Profile) and Ip Lookup (City, ORG, Region, Country, Etc), Number Lookup (Region, Company).</span>
   <br>
-  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"></a>
 
 
 ## Installation
 
 ```console
 # clone the repo
-$ git clone https://github.com/Lzyen/Discord-Bot-Mc-Lookup-and-IP-Lookup/
+$ git clone https://github.com/Lzyen/Ultra-Bot-Discord/
 
-# change the working directory to Discord Bot Mc Lookup and IP Lookup
-$ cd Discord-Bot-Mc-Lookup-and-IP-Lookup.
+# change the working directory to Ultra-Bot-Discord
+$ cd Ultra-Bot-Discord.
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
@@ -25,6 +24,7 @@ $ Prefix = "."
 
 $ .mclookup Name
 $ .iplookup ip
+$ .numberlookup code + number
 
 ```
 ## Legal Advice
