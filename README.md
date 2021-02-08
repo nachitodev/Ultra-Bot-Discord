@@ -5,6 +5,7 @@
   
 ![image](https://img.shields.io/github/stars/Lzyen/Ultra-Bot-Discord)
  ![Forks](https://img.shields.io/github/forks/Lzyen/Ultra-Bot-Discord)
+ [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ## Installation
 
