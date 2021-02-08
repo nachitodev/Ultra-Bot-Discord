@@ -20,12 +20,9 @@ $ python3 -m pip install -r requirements.txt
 # Insert Your Token In The File "Main.py"
 $ bot.run("token-here")
 
-# Commands
-$ Prefix = "."
-
-$ .mclookup Name
-$ .iplookup ip
-$ .numberlookup code + number
+$ mclookup Name
+$ iplookup ip
+$ numberlookup code + number
 
 ```
 ## Legal Advice
