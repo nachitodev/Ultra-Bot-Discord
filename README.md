@@ -3,7 +3,7 @@
   <span>A Discord Bot / Selfbot, who can do a MC Lookup (UUID, Skin URL, And NameMc Profile) and Ip Lookup (City, ORG, Region, Country, Etc), Number Lookup (Region, Company).</span>
   <br>
   
-https://img.shields.io/github/stars/Lzyen/Ultra-Bot-Discord
+![image](https://img.shields.io/github/stars/Lzyen/Ultra-Bot-Discord)
 
 ## Installation
 
