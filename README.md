@@ -4,6 +4,7 @@
   <br>
   
 ![image](https://img.shields.io/github/stars/Lzyen/Ultra-Bot-Discord)
+ ![Forks](https://img.shields.io/github/forks/Lzyen/Ultra-Bot-Discord)
 
 ## Installation
 
