@@ -19,12 +19,7 @@ $ cd Ultra-Bot-Discord.
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 
-# Insert Your Token In The File "Main.py"
-$ bot.run("token-here")
-
-$ mclookup Name
-$ iplookup ip
-$ numberlookup code + number
+# Insert Your Token In The File "Settings.json" and select your prefix.
 
 ```
 ## Legal Advice
